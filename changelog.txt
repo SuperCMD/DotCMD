@@ -1,0 +1,3 @@
+##Changelog for 0.0.1
+*Adding 7zip to fast extrack and better file download
+*Adding UniExtract if you want to break an installer
